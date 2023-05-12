@@ -1,0 +1,5872 @@
+[
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "FICO/Loan Amount Adjustments(1)",
+        "values": [
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "FHA",
+                "llpaValue": 0.5
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "FHA",
+                "llpaValue": 0.3
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "FHA",
+                "llpaValue": 0.08
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "VA",
+                "llpaValue": 0.12
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "VA",
+                "llpaValue": 0.13
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "VA",
+                "llpaValue": 0.04
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "USDA",
+                "llpaValue": 0.19
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "USDA",
+                "llpaValue": 0.12
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "USDA",
+                "llpaValue": 0.05
+            }
+        ],
+        "minFico": 740.0,
+        "maxFico": 1000
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "FICO/Loan Amount Adjustments(1)",
+        "values": [
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "FHA",
+                "llpaValue": 0.39
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "FHA",
+                "llpaValue": 0.2
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "FHA",
+                "llpaValue": 0.04
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "VA",
+                "llpaValue": 0.01
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "VA",
+                "llpaValue": 0.09
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "VA",
+                "llpaValue": 0.05
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "USDA",
+                "llpaValue": -0.04
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "USDA",
+                "llpaValue": -0.02
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "USDA",
+                "llpaValue": 0
+            }
+        ],
+        "minFico": 720.0,
+        "maxFico": 739.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "FICO/Loan Amount Adjustments(1)",
+        "values": [
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "FHA",
+                "llpaValue": 0.33
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "FHA",
+                "llpaValue": 0.18
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "FHA",
+                "llpaValue": 0.04
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "VA",
+                "llpaValue": -0.03
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "VA",
+                "llpaValue": 0.08
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "VA",
+                "llpaValue": 0.05
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "USDA",
+                "llpaValue": -0.14
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "USDA",
+                "llpaValue": -0.06
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "USDA",
+                "llpaValue": -0.01
+            }
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "FICO/Loan Amount Adjustments(1)",
+        "values": [
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "FHA",
+                "llpaValue": 0.04
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "FHA",
+                "llpaValue": 0.02
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "FHA",
+                "llpaValue": 0
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "VA",
+                "llpaValue": -0.23
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "VA",
+                "llpaValue": -0.03
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "VA",
+                "llpaValue": 0.03
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "USDA",
+                "llpaValue": -0.25
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "USDA",
+                "llpaValue": -0.11
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "USDA",
+                "llpaValue": -0.02
+            }
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "FICO/Loan Amount Adjustments(1)",
+        "values": [
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "FHA",
+                "llpaValue": -0.2
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "FHA",
+                "llpaValue": -0.1
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "FHA",
+                "llpaValue": -0.03
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "VA",
+                "llpaValue": -0.35
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "VA",
+                "llpaValue": -0.1
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "VA",
+                "llpaValue": 0.02
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "USDA",
+                "llpaValue": -0.45
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "USDA",
+                "llpaValue": -0.25
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "USDA",
+                "llpaValue": -0.12
+            }
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "FICO/Loan Amount Adjustments(1)",
+        "values": [
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "FHA",
+                "llpaValue": -0.53
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "FHA",
+                "llpaValue": -0.33
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "FHA",
+                "llpaValue": -0.12
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "VA",
+                "llpaValue": -0.7
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "VA",
+                "llpaValue": -0.3
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "VA",
+                "llpaValue": -0.1
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "USDA",
+                "llpaValue": -0.96
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "USDA",
+                "llpaValue": -0.7
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "USDA",
+                "llpaValue": -0.53
+            }
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "FICO/Loan Amount Adjustments(1)",
+        "values": [
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "FHA",
+                "llpaValue": -1.21
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "FHA",
+                "llpaValue": -0.68
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "FHA",
+                "llpaValue": -0.2
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807
+            }
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "FICO/Loan Amount Adjustments(1)",
+        "values": [
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "FHA",
+                "llpaValue": -1.46
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "FHA",
+                "llpaValue": -1
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "FHA",
+                "llpaValue": -0.9
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807
+            }
+        ],
+        "minFico": 600.0,
+        "maxFico": 619.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "FICO/Loan Amount Adjustments(1)",
+        "values": [
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0,
+                "productType": "FHA",
+                "llpaValue": -1.96
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0,
+                "productType": "FHA",
+                "llpaValue": -1.35
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807,
+                "productType": "FHA",
+                "llpaValue": -1.15
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807
+            },
+            {
+                "minLoan": 0,
+                "maxLoan": 110000.0
+            },
+            {
+                "minLoan": 110000.0,
+                "maxLoan": 225000.0
+            },
+            {
+                "minLoan": 225000.0,
+                "maxLoan": 9223372036854775807
+            }
+        ],
+        "minFico": 580.0,
+        "maxFico": 599.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.05
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.03
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.08
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.05
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.05
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.13
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.1
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.07
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.18
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.1
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.23
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.03
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.08
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.07
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.02
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.1
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.06
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.14
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.09
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.2
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.03
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.07
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.02
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.08
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.1
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.05
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.12
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.08
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.16
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.04
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.1
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.07
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.05
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.05
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.07
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.14
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.11
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.19
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.06
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.16
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.25
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.02
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.06
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.02
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.09
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.09
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.23
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.14
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.31
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.06
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.19
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.41
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Purchase Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA Purchase Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.07
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.05
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.1
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.08
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.07
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.1
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.07
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.08
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.1
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.07
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.05
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.05
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.08
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.05
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.05
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.09
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.05
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.02
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA Non-IRRRL Refinance Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA Non-IRRRL Refinance Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": -0.02
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.04
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.07
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.1
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.11
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.06
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.11
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.14
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.02
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.07
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.13
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.21
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 1,
+        "stateGroup": [
+            "NV",
+            " VT",
+            " NE",
+            " MT",
+            " MA"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": -0.02
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.04
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.06
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.08
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.09
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.07
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.1
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.06
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.04
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.09
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.15
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 2,
+        "stateGroup": [
+            "CT",
+            " NM",
+            " SD",
+            " OH",
+            " WV",
+            " ND",
+            " IN",
+            " KS",
+            " IA",
+            " NJ"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.05
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.07
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.1
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.1
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.01
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.05
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.09
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.1
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.05
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.05
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.1
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.14
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 3,
+        "stateGroup": [
+            "VA",
+            " HI",
+            " ID",
+            " RI",
+            " MN",
+            " IL",
+            " DC",
+            " MD",
+            " WY",
+            " NH",
+            " WA",
+            " AZ",
+            " CA"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.06
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.09
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.13
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.14
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.03
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.04
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.09
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.13
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.16
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.05
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.11
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.16
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.22
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 4,
+        "stateGroup": [
+            "OK",
+            " PA",
+            " AL",
+            " AR",
+            " TX",
+            " AK",
+            " DE",
+            " LA",
+            " SC",
+            " MS",
+            " NC"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": -0.01
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.05
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.08
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.12
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.14
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 720.0,
+        "maxFico": 1000,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.02
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.08
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.13
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.19
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0,
+                "llpaValue": 0.04
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0,
+                "llpaValue": -0.03
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0,
+                "llpaValue": -0.1
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0,
+                "llpaValue": -0.19
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807,
+                "llpaValue": -0.31
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "productType": "VA IRRRL Adjustments"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Government LLPAs",
+        "product": "VA IRRRL Adjustments",
+        "values": [
+            {
+                "minLtv": 0,
+                "maxLTV": 80.0,
+                "minCltv": 0,
+                "maxClTV": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLTV": 85.0,
+                "minCltv": 80.01,
+                "maxClTV": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLTV": 90.0,
+                "minCltv": 85.01,
+                "maxClTV": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLTV": 95.0,
+                "minCltv": 90.01,
+                "maxClTV": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLTV": 100.0,
+                "minCltv": 95.01,
+                "maxClTV": 100.0
+            },
+            {
+                "minLtv": 100.0,
+                "maxLTV": 9223372036854775807,
+                "minCltv": 100.0,
+                "maxClTV": 9223372036854775807
+            }
+        ],
+        "tier": 5,
+        "stateGroup": [
+            "KY",
+            " TN",
+            " GA",
+            " ME",
+            " FL",
+            " OR",
+            " MI",
+            " MO",
+            " WI",
+            " UT",
+            " CO"
+        ],
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "productType": "VA IRRRL Adjustments"
+    }
+]

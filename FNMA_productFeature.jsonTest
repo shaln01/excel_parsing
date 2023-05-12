@@ -1,0 +1,501 @@
+[
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "PURCHASE_FIXED",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": 0.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "UNITS_2",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "UNITS_3_2",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "INVESTMENT_PROPERTY",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -2.125
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -2.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -2.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -3.375
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -4.125
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "HOME_SECOND",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -1.125
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.625
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -2.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -3.375
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -4.125
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -4.125
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "CONDO_ATTACHED_TERM_15_ABOVE",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -0.75
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "ARM",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -0.25
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "HIGHBAL_TERM_15_ABOVE",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "HIGHBAL_CASHOUT_YES",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -1.25
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.75
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "ARM_HIGHBAL",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -1.75
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "productFeature": "TEMP_BUYDOWN",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -0.125
+            }
+        ]
+    }
+]

@@ -1,0 +1,866 @@
+[
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "rate": 5.5,
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 90.75
+            },
+            {
+                "day": 30,
+                "bondRate": 90.688
+            },
+            {
+                "day": 45,
+                "bondRate": 90.625
+            },
+            {
+                "day": 60,
+                "bondRate": 90.5
+            },
+            {
+                "day": 75,
+                "bondRate": 90.375
+            },
+            {
+                "day": 90,
+                "bondRate": 90.125
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 5.625,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 91.5
+            },
+            {
+                "day": 30,
+                "bondRate": 91.438
+            },
+            {
+                "day": 45,
+                "bondRate": 91.375
+            },
+            {
+                "day": 60,
+                "bondRate": 91.25
+            },
+            {
+                "day": 75,
+                "bondRate": 91.125
+            },
+            {
+                "day": 90,
+                "bondRate": 90.875
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 5.75,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 92.25
+            },
+            {
+                "day": 30,
+                "bondRate": 92.188
+            },
+            {
+                "day": 45,
+                "bondRate": 92.125
+            },
+            {
+                "day": 60,
+                "bondRate": 92
+            },
+            {
+                "day": 75,
+                "bondRate": 91.875
+            },
+            {
+                "day": 90,
+                "bondRate": 91.625
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 5.875,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 92.875
+            },
+            {
+                "day": 30,
+                "bondRate": 92.813
+            },
+            {
+                "day": 45,
+                "bondRate": 92.75
+            },
+            {
+                "day": 60,
+                "bondRate": 92.625
+            },
+            {
+                "day": 75,
+                "bondRate": 92.5
+            },
+            {
+                "day": 90,
+                "bondRate": 92.25
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 5.99,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 93.325
+            },
+            {
+                "day": 30,
+                "bondRate": 93.263
+            },
+            {
+                "day": 45,
+                "bondRate": 93.2
+            },
+            {
+                "day": 60,
+                "bondRate": 93.075
+            },
+            {
+                "day": 75,
+                "bondRate": 92.95
+            },
+            {
+                "day": 90,
+                "bondRate": 92.7
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 6,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 93.375
+            },
+            {
+                "day": 30,
+                "bondRate": 93.313
+            },
+            {
+                "day": 45,
+                "bondRate": 93.25
+            },
+            {
+                "day": 60,
+                "bondRate": 93.125
+            },
+            {
+                "day": 75,
+                "bondRate": 93
+            },
+            {
+                "day": 90,
+                "bondRate": 92.75
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 6.125,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 93.875
+            },
+            {
+                "day": 30,
+                "bondRate": 93.813
+            },
+            {
+                "day": 45,
+                "bondRate": 93.75
+            },
+            {
+                "day": 60,
+                "bondRate": 93.625
+            },
+            {
+                "day": 75,
+                "bondRate": 93.5
+            },
+            {
+                "day": 90,
+                "bondRate": 93.25
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 6.25,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 94.375
+            },
+            {
+                "day": 30,
+                "bondRate": 94.313
+            },
+            {
+                "day": 45,
+                "bondRate": 94.25
+            },
+            {
+                "day": 60,
+                "bondRate": 94.125
+            },
+            {
+                "day": 75,
+                "bondRate": 94
+            },
+            {
+                "day": 90,
+                "bondRate": 93.75
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 6.375,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 94.75
+            },
+            {
+                "day": 30,
+                "bondRate": 94.688
+            },
+            {
+                "day": 45,
+                "bondRate": 94.625
+            },
+            {
+                "day": 60,
+                "bondRate": 94.5
+            },
+            {
+                "day": 75,
+                "bondRate": 94.375
+            },
+            {
+                "day": 90,
+                "bondRate": 94.125
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 6.5,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 95.125
+            },
+            {
+                "day": 30,
+                "bondRate": 95.063
+            },
+            {
+                "day": 45,
+                "bondRate": 95
+            },
+            {
+                "day": 60,
+                "bondRate": 94.875
+            },
+            {
+                "day": 75,
+                "bondRate": 94.75
+            },
+            {
+                "day": 90,
+                "bondRate": 94.5
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 6.625,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 95.5
+            },
+            {
+                "day": 30,
+                "bondRate": 95.438
+            },
+            {
+                "day": 45,
+                "bondRate": 95.375
+            },
+            {
+                "day": 60,
+                "bondRate": 95.25
+            },
+            {
+                "day": 75,
+                "bondRate": 95.125
+            },
+            {
+                "day": 90,
+                "bondRate": 94.875
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 6.75,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 95.875
+            },
+            {
+                "day": 30,
+                "bondRate": 95.813
+            },
+            {
+                "day": 45,
+                "bondRate": 95.75
+            },
+            {
+                "day": 60,
+                "bondRate": 95.625
+            },
+            {
+                "day": 75,
+                "bondRate": 95.5
+            },
+            {
+                "day": 90,
+                "bondRate": 95.25
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 6.875,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 96.25
+            },
+            {
+                "day": 30,
+                "bondRate": 96.188
+            },
+            {
+                "day": 45,
+                "bondRate": 96.125
+            },
+            {
+                "day": 60,
+                "bondRate": 96
+            },
+            {
+                "day": 75,
+                "bondRate": 95.875
+            },
+            {
+                "day": 90,
+                "bondRate": 95.625
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 6.99,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 96.575
+            },
+            {
+                "day": 30,
+                "bondRate": 96.513
+            },
+            {
+                "day": 45,
+                "bondRate": 96.45
+            },
+            {
+                "day": 60,
+                "bondRate": 96.325
+            },
+            {
+                "day": 75,
+                "bondRate": 96.2
+            },
+            {
+                "day": 90,
+                "bondRate": 95.95
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 7,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 96.625
+            },
+            {
+                "day": 30,
+                "bondRate": 96.563
+            },
+            {
+                "day": 45,
+                "bondRate": 96.5
+            },
+            {
+                "day": 60,
+                "bondRate": 96.375
+            },
+            {
+                "day": 75,
+                "bondRate": 96.25
+            },
+            {
+                "day": 90,
+                "bondRate": 96
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 7.125,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 97
+            },
+            {
+                "day": 30,
+                "bondRate": 96.938
+            },
+            {
+                "day": 45,
+                "bondRate": 96.875
+            },
+            {
+                "day": 60,
+                "bondRate": 96.75
+            },
+            {
+                "day": 75,
+                "bondRate": 96.625
+            },
+            {
+                "day": 90,
+                "bondRate": 96.375
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 7.25,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 97.25
+            },
+            {
+                "day": 30,
+                "bondRate": 97.188
+            },
+            {
+                "day": 45,
+                "bondRate": 97.125
+            },
+            {
+                "day": 60,
+                "bondRate": 97
+            },
+            {
+                "day": 75,
+                "bondRate": 96.875
+            },
+            {
+                "day": 90,
+                "bondRate": 96.625
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 7.375,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 97.5
+            },
+            {
+                "day": 30,
+                "bondRate": 97.438
+            },
+            {
+                "day": 45,
+                "bondRate": 97.375
+            },
+            {
+                "day": 60,
+                "bondRate": 97.25
+            },
+            {
+                "day": 75,
+                "bondRate": 97.125
+            },
+            {
+                "day": 90,
+                "bondRate": 96.875
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 7.5,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 97.75
+            },
+            {
+                "day": 30,
+                "bondRate": 97.688
+            },
+            {
+                "day": 45,
+                "bondRate": 97.625
+            },
+            {
+                "day": 60,
+                "bondRate": 97.5
+            },
+            {
+                "day": 75,
+                "bondRate": 97.375
+            },
+            {
+                "day": 90,
+                "bondRate": 97.125
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 7.625,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 97.875
+            },
+            {
+                "day": 30,
+                "bondRate": 97.813
+            },
+            {
+                "day": 45,
+                "bondRate": 97.75
+            },
+            {
+                "day": 60,
+                "bondRate": 97.625
+            },
+            {
+                "day": 75,
+                "bondRate": 97.5
+            },
+            {
+                "day": 90,
+                "bondRate": 97.25
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 7.75,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 98
+            },
+            {
+                "day": 30,
+                "bondRate": 97.938
+            },
+            {
+                "day": 45,
+                "bondRate": 97.875
+            },
+            {
+                "day": 60,
+                "bondRate": 97.75
+            },
+            {
+                "day": 75,
+                "bondRate": 97.625
+            },
+            {
+                "day": 90,
+                "bondRate": 97.375
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 7.875,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 98.125
+            },
+            {
+                "day": 30,
+                "bondRate": 98.063
+            },
+            {
+                "day": 45,
+                "bondRate": 98
+            },
+            {
+                "day": 60,
+                "bondRate": 97.875
+            },
+            {
+                "day": 75,
+                "bondRate": 97.75
+            },
+            {
+                "day": 90,
+                "bondRate": 97.5
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 7.99,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 98.2
+            },
+            {
+                "day": 30,
+                "bondRate": 98.138
+            },
+            {
+                "day": 45,
+                "bondRate": 98.075
+            },
+            {
+                "day": 60,
+                "bondRate": 97.95
+            },
+            {
+                "day": 75,
+                "bondRate": 97.825
+            },
+            {
+                "day": 90,
+                "bondRate": 97.575
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "Portfolio Express",
+        "product": "Portfolio Express Fixed 30",
+        "term": [
+            30
+        ],
+        "productType": "Fixed",
+        "rate": 8,
+        "values": [
+            {
+                "day": 15,
+                "bondRate": 98.25
+            },
+            {
+                "day": 30,
+                "bondRate": 98.188
+            },
+            {
+                "day": 45,
+                "bondRate": 98.125
+            },
+            {
+                "day": 60,
+                "bondRate": 98
+            },
+            {
+                "day": 75,
+                "bondRate": 97.875
+            },
+            {
+                "day": 90,
+                "bondRate": 97.625
+            }
+        ]
+    }
+]

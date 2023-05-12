@@ -1,0 +1,521 @@
+ {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "Purchase (Fixed Rate)",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": 0.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "2 Units",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "3-4 Units",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "Investment Property",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -2.125
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -2.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -2.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -3.375
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -4.125
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "Second Homes",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -1.125
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.625
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -2.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -3.375
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -4.125
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -4.125
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "Attached  Condo & Term > 15yrs",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -0.75
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "ARMs",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -0.25
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "HighBal Purchase & No Cashout Refi (CLTV)",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "HighBal Cashout Refi (CLTV)",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -1.25
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.75
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "HighBal ARM (CLTV)",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -1.75
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Product Features",
+        "productFeature": "Loan with Temporary Buydown (Not subject to LLPA Caps)",
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -0.125
+            }
+        ]
+    }

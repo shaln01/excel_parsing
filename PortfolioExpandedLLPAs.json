@@ -1,0 +1,1328 @@
+[
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "FICO Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": 0.375
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": 0.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minFico": 800.0,
+        "maxFico": 1000
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "FICO Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": 0.375
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": 0.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minFico": 780.0,
+        "maxFico": 799.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "FICO Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": 0.625
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": 0.375
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": 0.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minFico": 760.0,
+        "maxFico": 779.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "FICO Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": 0.5
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": 0.5
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": 0.5
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": 0.5
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": 0.25
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minFico": 740.0,
+        "maxFico": 759.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "FICO Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": 0.375
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": 0.375
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": 0.375
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": 0.375
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": 0.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minFico": 720.0,
+        "maxFico": 739.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "FICO Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": 0.375
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": 0.375
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": 0.375
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": 0.25
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": 0.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minFico": 700.0,
+        "maxFico": 719.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "FICO Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": 0.25
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": 0.25
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": 0.25
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": 0.25
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minFico": 680.0,
+        "maxFico": 699.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Loan Amount Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minLoan": 1000000.0,
+        "maxLoan": 1500000.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Loan Amount Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -0.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minLoan": 1500000.0,
+        "maxLoan": 2000000.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Loan Amount Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minLoan": 2000000.0,
+        "maxLoan": 2500000.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Loan Amount Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "minLoan": 2500000.0,
+        "maxLoan": 3000000.0
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Purpose / Property Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0,
+                "llpaValue": 0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "propertyType": "Rate/Term"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Purpose / Property Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "propertyType": "Cashout and FICO >= 740"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Purpose / Property Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -0.625
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.875
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "propertyType": "Cashout and FICO < 740"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Purpose / Property Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "propertyType": "2 Units"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Purpose / Property Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "propertyType": "3-4 Units"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Purpose / Property Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": -1
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": -1
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": -1
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": -1
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -1.25
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -1.375
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "propertyType": "Investment Property"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Purpose / Property Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -1.25
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "propertyType": "Second Home"
+    },
+    {
+        "version": 1,
+        "withEscrow": true,
+        "provider": "Portfolio Expanded LLPAs",
+        "product": "Purpose / Property Adjustments",
+        "values": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 50.0,
+                "minCltv": 0.0,
+                "maxCltv": 50.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 50.01,
+                "maxLtv": 55.0,
+                "minCltv": 50.01,
+                "maxCltv": 55.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 55.01,
+                "maxLtv": 60.0,
+                "minCltv": 55.01,
+                "maxCltv": 60.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 65.0,
+                "minCltv": 60.01,
+                "maxCltv": 65.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 65.01,
+                "maxLtv": 70.0,
+                "minCltv": 65.01,
+                "maxCltv": 70.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "minCltv": 70.01,
+                "maxCltv": 75.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "minCltv": 75.01,
+                "maxCltv": 80.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "minCltv": 80.01,
+                "maxCltv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "minCltv": 85.01,
+                "maxCltv": 90.0
+            }
+        ],
+        "propertyType": "Interest Only"
+    }
+]

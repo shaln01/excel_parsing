@@ -1,0 +1,1132 @@
+[
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "FICO  (Terms > 15 years only)",
+        "minFico": 800,
+        "maxFico": 1000,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -0.75
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "FICO  (Terms > 15 years only)",
+        "minFico": 780.0,
+        "maxFico": 799.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -0.75
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "FICO  (Terms > 15 years only)",
+        "minFico": 760.0,
+        "maxFico": 779.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -0.75
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "FICO  (Terms > 15 years only)",
+        "minFico": 740.0,
+        "maxFico": 759.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -0.75
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "FICO  (Terms > 15 years only)",
+        "minFico": 720.0,
+        "maxFico": 739.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.25
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -1.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "FICO  (Terms > 15 years only)",
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.25
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -1.5
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "FICO  (Terms > 15 years only)",
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.25
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.75
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -1.25
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -1.25
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -1.5
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "FICO  (Terms > 15 years only)",
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": 0.0
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.0
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -2.25
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -2.75
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -2.75
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -2.25
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -2.25
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -2.25
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "FICO  (Terms > 15 years only)",
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.25
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -2.75
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -3.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -3.25
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -2.75
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -2.75
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -2.75
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "FICO  (Terms > 15 years only)",
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -3.0
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -3.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0,
+                "llpaValue": -3.25
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0,
+                "llpaValue": -3.25
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0,
+                "llpaValue": -3.25
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0,
+                "llpaValue": -3.5
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": true,
+        "product": "Cash Out Refinance",
+        "minFico": 800,
+        "maxFico": 1000,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.375
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.875
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": true,
+        "product": "Cash Out Refinance",
+        "minFico": 780.0,
+        "maxFico": 799.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.375
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.875
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": true,
+        "product": "Cash Out Refinance",
+        "minFico": 760.0,
+        "maxFico": 779.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.375
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.875
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": true,
+        "product": "Cash Out Refinance",
+        "minFico": 740.0,
+        "maxFico": 759.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.375
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -0.75
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.375
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -1.875
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": true,
+        "product": "Cash Out Refinance",
+        "minFico": 720.0,
+        "maxFico": 739.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.5
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -2.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": true,
+        "product": "Cash Out Refinance",
+        "minFico": 700.0,
+        "maxFico": 719.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.625
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.125
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.625
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -2.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": true,
+        "product": "Cash Out Refinance",
+        "minFico": 680.0,
+        "maxFico": 699.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.875
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.5
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.625
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -2.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": true,
+        "product": "Cash Out Refinance",
+        "minFico": 660.0,
+        "maxFico": 679.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.875
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.75
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.75
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -2.0
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": true,
+        "product": "Cash Out Refinance",
+        "minFico": 640.0,
+        "maxFico": 659.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.875
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.875
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.875
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -2.125
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": true,
+        "product": "Cash Out Refinance",
+        "minFico": 620.0,
+        "maxFico": 639.0,
+        "llpas": [
+            {
+                "minLtv": 0.0,
+                "maxLtv": 60.0,
+                "llpaValue": -0.875
+            },
+            {
+                "minLtv": 60.01,
+                "maxLtv": 70.0,
+                "llpaValue": -1.875
+            },
+            {
+                "minLtv": 70.01,
+                "maxLtv": 75.0,
+                "llpaValue": -1.875
+            },
+            {
+                "minLtv": 75.01,
+                "maxLtv": 80.0,
+                "llpaValue": -2.125
+            },
+            {
+                "minLtv": 80.01,
+                "maxLtv": 85.0
+            },
+            {
+                "minLtv": 85.01,
+                "maxLtv": 90.0
+            },
+            {
+                "minLtv": 90.01,
+                "maxLtv": 95.0
+            },
+            {
+                "minLtv": 95.01,
+                "maxLtv": 97.0
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Secondary Financing",
+        "minFico": 0,
+        "maxFico": 719,
+        "llpas": [
+            {
+                "minLtv": 0,
+                "maxLtv": 75,
+                "minCltv": 0,
+                "maxCltv": 80,
+                "llpaValue": -0.375
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Secondary Financing",
+        "minFico": 720,
+        "maxFico": 1000,
+        "llpas": [
+            {
+                "minLtv": 0,
+                "maxLtv": 75,
+                "minCltv": 0,
+                "maxCltv": 80,
+                "llpaValue": -0.375
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Secondary Financing",
+        "minFico": 0,
+        "maxFico": 719,
+        "llpas": [
+            {
+                "minLtv": 0,
+                "maxLtv": 65,
+                "minCltv": 80.01,
+                "maxCltv": 95.0,
+                "llpaValue": -0.875
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Secondary Financing",
+        "minFico": 720,
+        "maxFico": 1000,
+        "llpas": [
+            {
+                "minLtv": 0,
+                "maxLtv": 65,
+                "minCltv": 80.01,
+                "maxCltv": 95.0,
+                "llpaValue": -0.625
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Secondary Financing",
+        "minFico": 0,
+        "maxFico": 719,
+        "llpas": [
+            {
+                "minLtv": 65.01,
+                "maxLtv": 75.0,
+                "minCltv": 80.01,
+                "maxCltv": 95.0,
+                "llpaValue": -1.125
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Secondary Financing",
+        "minFico": 720,
+        "maxFico": 1000,
+        "llpas": [
+            {
+                "minLtv": 65.01,
+                "maxLtv": 75.0,
+                "minCltv": 80.01,
+                "maxCltv": 95.0,
+                "llpaValue": -0.875
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Secondary Financing",
+        "minFico": 0,
+        "maxFico": 719,
+        "llpas": [
+            {
+                "minLtv": 75.01,
+                "maxLtv": 95.0,
+                "minCltv": 75.01,
+                "maxCltv": 95.0,
+                "llpaValue": -1.375
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Secondary Financing",
+        "minFico": 720,
+        "maxFico": 1000,
+        "llpas": [
+            {
+                "minLtv": 75.01,
+                "maxLtv": 95.0,
+                "minCltv": 75.01,
+                "maxCltv": 95.0,
+                "llpaValue": -1.125
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Secondary Financing",
+        "minFico": 0,
+        "maxFico": 719,
+        "llpas": [
+            {
+                "minLtv": 0,
+                "maxLtv": 96,
+                "minCltv": 95.01,
+                "maxCltv": 97.0,
+                "llpaValue": -1.875
+            }
+        ]
+    },
+    {
+        "version": 1,
+        "provider": "FHLMC",
+        "isCashOutRefinance": false,
+        "product": "Secondary Financing",
+        "minFico": 720,
+        "maxFico": 1000,
+        "llpas": [
+            {
+                "minLtv": 0,
+                "maxLtv": 96,
+                "minCltv": 95.01,
+                "maxCltv": 97.0,
+                "llpaValue": -1.875
+            }
+        ]
+    }
+]
